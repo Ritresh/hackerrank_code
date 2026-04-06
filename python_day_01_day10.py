@@ -1,4 +1,5 @@
-#Day 01- Say "Hello, World!" With Python
+
+# Day 01- Say "Hello, World!" With Python
 # Read a full line of input from stdin and save it to our dynamically typed variable, input_string.
 input_string = input()
 # Print a string literal saying "Hello, World." to stdout.
@@ -25,7 +26,7 @@ print(d + d2)
 # Concatenate and print the String variables on a new line
 # The 's' variable above should be printed first.
 print(s + s2)
-
+    
 # Day 03: Operators
 import math
 import os
@@ -48,9 +49,8 @@ if __name__ == '__main__':
     tip_percent = int(input().strip())
     tax_percent = int(input().strip())
     solve(meal_cost, tip_percent, tax_percent)
-
+    
 # Day 04: Intro to Conditional Statements
-#!/bin/python3
 import math
 import os
 import random
@@ -68,3 +68,29 @@ if __name__ == '__main__':
         else:
             print('Not Weird')
 
+# Day 05: Class vs. Instance
+class Person:
+    def __init__(self,initialAge):
+        if initialAge < 0:
+            print("Age is not valid, setting age to 0.")
+            self.age=0
+        else:
+            self.age = initialAge
+    def amIOld(self):
+        if self.age<13:
+            print("You are young.")
+        elif self.age>=13 and self.age<18:
+            print("You are a teenager.")
+        else:
+            print("You are old.")
+    def yearPasses(self):
+        self.age+=1
+t = int(input())
+for i in range(0, t):
+    age = int(input())         
+    p = Person(age)  
+    p.amIOld()
+    for j in range(0, 3):
+        p.yearPasses()       
+    p.amIOld()
+    print("")
