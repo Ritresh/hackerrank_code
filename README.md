@@ -50,7 +50,7 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 
 ## 🌐 My HackerRank Profile
 
-👉 profile link
+👉 https://www.hackerrank.com/submissions/all
 
 ---
 
