@@ -62,9 +62,9 @@ If you like this repo, feel free to **star ⭐ it** and follow my journey!
 
 ## 📬 Connect with Me
 
-* GitHub: 
-* LinkedIn:https://www.linkedin.com/in/ritresh-kumar-6b4057392/
-* Email:
+🔗 [LinkedIn](https://www.linkedin.com/feed/)  
+🔗 [GitHub](https://github.com/Ritresh/Ritresh)
+🔗 
 
 ---
 
