@@ -64,8 +64,7 @@ If you like this repo, feel free to **star ⭐ it** and follow my journey!
 
 🔗 [LinkedIn](https://www.linkedin.com/feed/)  
 🔗 [GitHub](https://github.com/Ritresh/Ritresh)
-🔗 
-
+📧 Email: ritresh273@gmail.com
 ---
 
 > “Consistency beats intensity.” 💪
