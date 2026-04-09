@@ -105,3 +105,13 @@ if __name__ == '__main__':
     n = int(input().strip())
     for i in range(1, 11):
         print(f"{n} x {i} = {n*i}")
+
+# Day 07: Let's Review
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+t = int(input())
+for i in range(t):
+    s = input()
+    even_char = s[::2]
+    odd_char = s[1::2]
+    print(f'{even_char} {odd_char}')
+    
