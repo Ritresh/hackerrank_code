@@ -17,9 +17,19 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 
 ## 🚀 Progress
 
-| Day   | Topic       | Status |
-| ----- | ----------- | ------ |
-| Day 1 | Hello World | ✅      |
+| Day   | Topic                     | Status |
+|------|--------------------------|--------|
+| Day 1 | Hello World              | ✅ |
+| Day 2 | Data Types               | ✅ |
+| Day 3 | Operators                | ✅ |
+| Day 4 | Class vs Instance        | ✅ |
+| Day 5 | Loops                    | ✅ |
+| Day 6 | Let's Review             | ✅ |
+| Day 7 | Arrays                   | ✅ |
+| Day 8 | Dictionaries and Maps    | ✅ |
+| Day 9 | Recursion                | ⏳ |
+| Day 10 | Coming Soon             | ⏳ |
+
 
 ---
 
@@ -32,25 +42,29 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 
 ---
 
-## 🔥 What I Learned
+## 🔥 What I Learned So Far
 
-* Python basics and syntax
-* Writing my first program: Hello World
-* Understanding how code executes
+- Python basics and syntax  
+- Variables, loops, and functions  
+- Arrays and dictionaries  
+- Problem solving using logic  
+- Input/output handling in HackerRank  
+- Working with dictionaries (key-value mapping)
 
 ---
 
 ## 📈 Goals
 
-* Complete all 30 days consistently
-* Improve coding speed and accuracy
-* Build strong fundamentals for Data Science & Development
+- Complete all 30 days consistently  
+- Improve coding speed and logic building  
+- Build strong programming fundamentals  
+- Become job-ready in Python & Data Science  
 
 ---
 
 ## 🌐 My HackerRank Profile
 
-👉 https://www.hackerrank.com/submissions/all
+👉 https://www.hackerrank.com/submissions/all  
 
 ---
 
@@ -59,7 +73,6 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 If you like this repo, feel free to **star ⭐ it** and follow my journey!
 
 ---
-
 ## 📬 Connect with Me
 
 🔗 [LinkedIn](https://www.linkedin.com/feed/)  
