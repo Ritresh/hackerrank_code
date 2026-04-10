@@ -115,3 +115,14 @@ for i in range(t):
     odd_char = s[1::2]
     print(f'{even_char} {odd_char}')
     
+# Day 08: Array
+import math
+import os
+import random
+import re
+import sys
+if __name__ == '__main__':
+    n = int(input().strip())
+    arr = list(map(int, input().rstrip().split()))
+    reverse_arr = arr[::-1]
+    print(*reverse_arr)
