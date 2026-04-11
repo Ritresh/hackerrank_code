@@ -28,8 +28,7 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 | Day 7 | Let's Review                     | ✅ |
 | Day 8 | Arrays                           | ✅ |
 | Day 9 | Dictionaries and Maps            | ✅ |
-| Day 10 | Recursion                       | ⏳ |
-| Day 11 | Coming Soon                     | ⏳ |
+| Day 10 | Recursion                       | ✅ |
 
 
 ---
