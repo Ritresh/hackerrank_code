@@ -17,18 +17,19 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 
 ## 🚀 Progress
 
-| Day   | Topic                     | Status |
-|------|--------------------------|--------|
-| Day 1 | Hello World              | ✅ |
-| Day 2 | Data Types               | ✅ |
-| Day 3 | Operators                | ✅ |
-| Day 4 | Class vs Instance        | ✅ |
-| Day 5 | Loops                    | ✅ |
-| Day 6 | Let's Review             | ✅ |
-| Day 7 | Arrays                   | ✅ |
-| Day 8 | Dictionaries and Maps    | ✅ |
-| Day 9 | Recursion                | ⏳ |
-| Day 10 | Coming Soon             | ⏳ |
+| Day   | Topic                          | Status |
+|------|--------------------------|----------------|
+| Day 1 | Hello World                      | ✅ |
+| Day 2 | Data Types                       | ✅ |
+| Day 3 | Operators                        | ✅ |
+| Day 4 | Intro to Conditional Statements  | ✅ |
+| Day 5 | Class vs Instance                | ✅ |
+| Day 6 | Loops                            | ✅ |
+| Day 7 | Let's Review                     | ✅ |
+| Day 8 | Arrays                           | ✅ |
+| Day 9 | Dictionaries and Maps            | ✅ |
+| Day 10 | Recursion                       | ⏳ |
+| Day 11 | Coming Soon                     | ⏳ |
 
 
 ---
