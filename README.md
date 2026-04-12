@@ -29,6 +29,7 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 | Day 8 | Arrays                           | ✅ |
 | Day 9 | Dictionaries and Maps            | ✅ |
 | Day 10 | Recursion                       | ✅ |
+| Day 11 | Binary Numbers                  | ✅ |
 
 
 ---
@@ -38,6 +39,7 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 ```
 📁 hackerrank_code/
  ┗ 📄 python_day_01_day10.py
+ ┗ 📄 python_day_11_to_day_20.py
 ```
 
 ---
