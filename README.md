@@ -52,6 +52,7 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 - Problem solving using logic  
 - Input/output handling in HackerRank  
 - Working with dictionaries (key-value mapping)
+- Maximum consecutive 1’s in binary representation
 
 ---
 
