@@ -30,6 +30,7 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 | Day 9 | Dictionaries and Maps            | ✅ |
 | Day 10 | Recursion                       | ✅ |
 | Day 11 | Binary Numbers                  | ✅ |
+| Day 11 | 2D Array                        | ✅ |
 
 
 ---
@@ -53,6 +54,7 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 - Input/output handling in HackerRank  
 - Working with dictionaries (key-value mapping)
 - Maximum consecutive 1’s in binary representation
+- 2D array glass_hour sum of 6 by 6 matrix
 
 ---
 
