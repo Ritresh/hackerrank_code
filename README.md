@@ -30,7 +30,7 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 | Day 9 | Dictionaries and Maps            | ✅ |
 | Day 10 | Recursion                       | ✅ |
 | Day 11 | Binary Numbers                  | ✅ |
-| Day 11 | 2D Array                        | ✅ |
+| Day 12 | 2D Array                        | ✅ |
 
 
 ---
