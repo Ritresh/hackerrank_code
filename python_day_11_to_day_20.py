@@ -101,7 +101,7 @@ price=int(input())
 new_novel=MyBook(title,author,price)
 new_novel.display()
 
-#Day 14: Scope
+#Day 15: Scope
 class Difference:
     def __init__(self, a):
         self.__elements = a
@@ -116,7 +116,7 @@ d = Difference(a)
 d.computeDifference()
 print(d.maximumDifference)
 
-#Day 15: Linked List
+#Day 16: Linked List
 class Node:
     def __init__(self,data):
         self.data = data
