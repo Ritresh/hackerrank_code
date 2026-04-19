@@ -31,6 +31,10 @@ The **30 Days of Code** challenge on HackerRank is designed to help improve prob
 | Day 10 | Recursion                       | ✅ |
 | Day 11 | Binary Numbers                  | ✅ |
 | Day 12 | 2D Array                        | ✅ |
+| Day 13 | Inheritance                     | ✅ |
+| Day 14 | Abstract Classes                | ✅ |
+| Day 15 | Scope                           | ✅ |
+| Day 16 | Link list                       | ✅ |
 
 
 ---
